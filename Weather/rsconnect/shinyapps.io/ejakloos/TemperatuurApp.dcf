@@ -1,0 +1,12 @@
+name: TemperatuurApp
+title: TemperatuurApp
+username:
+account: ejakloos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 537977
+bundleId: 1666393
+url: https://ejakloos.shinyapps.io/TemperatuurApp/
+when: 1540659578.80147
+asMultiple: FALSE
+asStatic: FALSE
